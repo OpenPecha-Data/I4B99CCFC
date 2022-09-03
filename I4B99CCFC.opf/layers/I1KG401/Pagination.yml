@@ -1,0 +1,46 @@
+id: 1725d700d782414c93edfaae7e087973
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  b97d036b8e7e4f46be72d1ad1829231e:
+    span:
+      start: 0
+      end: 681
+    imgnum: 1
+    reference: I1KG4010001.tif
+  e91ffff5de9a48a990587e96182bb00b:
+    span:
+      start: 682
+      end: 936
+    imgnum: 6
+    reference: I1KG4010006.tif
+  c1b6cd9cceb7480ab770d90a8f9a7405:
+    span:
+      start: 937
+      end: 1068
+    imgnum: 7
+    reference: I1KG4010007.tif
+  629a86f31b844bba9604ed1ddf647e7f:
+    span:
+      start: 1069
+      end: 1336
+    imgnum: 8
+    reference: I1KG4010008.tif
+  c58d57307b524112971d0f3652978558:
+    span:
+      start: 1337
+      end: 1463
+    imgnum: 10
+    reference: I1KG4010010.tif
+  10025a2af32c4ec6adad8a7b391fbd4c:
+    span:
+      start: 1464
+      end: 2496
+    imgnum: 11
+    reference: I1KG4010011.tif
+  070678b77ba94fc18d62b7bca771c28b:
+    span:
+      start: 2497
+      end: 3640
+    imgnum: 12
+    reference: I1KG4010012.tif
